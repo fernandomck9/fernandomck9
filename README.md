@@ -9,5 +9,5 @@ Atualmente estou estudando:
 - JavaScrip
 - React
 
-Contanto: 📝 Lfernandoalves980@gmail.com | 📱Whatsapp: (69) 9 8410-4715.
+Contanto: 📧 Lfernandoalves980@gmail.com | 📱Whatsapp: (69) 9 8410-4715.
 
