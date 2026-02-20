@@ -12,5 +12,5 @@ Atualmente estou estudando:
 Contanto: 📧 Lfernandoalves980@gmail.com | 📱Whatsapp: (69) 9 8410-4715 | Linkedin: https://www.linkedin.com/in/lfernandoalves980/
 
 
-[![Fernando Status](https://github-readme-stats.vercel.app/api?username=fernandomck9)](https://github.com/anuraghazra/github-readme-stats)
+
 
