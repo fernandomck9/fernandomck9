@@ -1,7 +1,13 @@
-### Olá! 
+### Olá! 👋
 
 Me chamo Luiz Fernando e estou começando no mundo da programação.
 
-Atualmente estou estudando HTML, CSS e iniciando o aprendizado em JavaScrip e React.
+Atualmente estou estudando:
 
-Contanto: Lfernandoalves980@gmail.com
+- HTML 
+- CSS
+- JavaScrip
+- React
+
+Contanto: 📝 Lfernandoalves980@gmail.com | 📱Whatsapp: (69) 9 8410-4715.
+
